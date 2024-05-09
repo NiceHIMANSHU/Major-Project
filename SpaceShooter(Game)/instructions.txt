@@ -1,0 +1,14 @@
+				Instructions for Requirements and Executions of our Space Shooter (Game)
+Requirements:-
+1. Laptop or Computer.
+2. Download Python compiler from https://www.python.org/downloads/
+3. IDLE (Vs code or any other ).
+4. os, random, time, tkinter, turtle, pygame Modules.
+5. Basic knowledge about python programming language. 
+
+How to Execute the program:-
+1. Make sure all the assets are located their positions.
+2. Run the code.
+3. After giving your name click on ok to begin the game.
+4. Use left key for moving the turtle to left position and right key for moving the turtle to right position.
+5. Use upward key for increasing the speed of turtle and downward key for decreasing the speed of turtle.
